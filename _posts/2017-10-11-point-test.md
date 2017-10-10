@@ -5,8 +5,7 @@ date:   2017-10-11 15:07:19
 categories: [code]
 comments: true
 ---
-{% highlight language linenos=table %}
-{% raw %}
+~~~java
 class PointTest {
 	public static void main(String args[]) {
 		Point p = new Point();
@@ -94,5 +93,4 @@ public class Point {
 	}
 
 }
-{% endraw %}
-{% endhighlight %}
+~~~
