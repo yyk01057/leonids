@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Point Test"
+excerpt: "객체지향개념"
 date:   2017-10-11 15:07:19
 categories: [code]
 comments: true
