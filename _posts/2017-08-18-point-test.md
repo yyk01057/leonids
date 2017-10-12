@@ -2,11 +2,10 @@
 layout: post
 title:  "Point Test"
 excerpt: "객체지향개념"
-date:   2017-08-23 15:07:19
+date:   2017-08-18 15:07:19
 categories: [code]
 comments: true
 ---
-객체지향개념을 익힐 수 있는 예제이다.
 ~~~java
 class PointTest {
 	public static void main(String args[]) {
