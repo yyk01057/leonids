@@ -3,7 +3,7 @@ layout: post
 title:  "Point Test"
 excerpt: "객체지향개념"
 date:   2017-08-18 15:07:19
-categories: [code]
+categories: [java]
 comments: true
 ---
 ~~~java
