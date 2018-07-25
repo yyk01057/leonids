@@ -26,7 +26,7 @@ $font-family-sans-serif:     "Source Sans Pro", "Helvetica Neue", Helvetica, Ari
 $font-family-serif:          Georgia, "Times New Roman", Times, serif !default;
 $font-family-monospace:      "Roboto Mono", "Courier New", monospace !default;
 $font-family-nanum-gothic:   "Nanum Gothic", serif !default;
-$font-family-base:           $font-family-nanum-gothic, $font-family-sans-serif !default;
+$font-family-base:           $font-family-nanum-gothic !default;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
 $font-size-root:             17px !default;
