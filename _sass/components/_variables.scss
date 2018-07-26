@@ -4,11 +4,11 @@
 
 // Google font import
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
-@import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
-@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
-@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
-@import url(http://fonts.googleapis.com/earlyaccess/nanumbrushscript.css);
-@import url(http://fonts.googleapis.com/earlyaccess/jejuhallasan.css);
+@import url('https://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+@import url('http://fonts.googleapis.com/earlyaccess/hanna.css');
+@import url('http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css');
+@import url('http://fonts.googleapis.com/earlyaccess/nanumbrushscript.css');
+@import url('http://fonts.googleapis.com/earlyaccess/jejuhallasan.css');
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 
 // Custom variables
@@ -31,7 +31,6 @@ $font-family-sans-serif:     "Source Sans Pro", "Helvetica Neue", Helvetica, Ari
 $font-family-serif:          Georgia, "Times New Roman", Times, serif !default;
 $font-family-monospace:      "Roboto Mono", "Courier New", monospace !default;
 $font-family-jeju-hallasan:  "Jeju Halasan", !default;
-$font-family-NanumSquare:	   NanumSquare !default;
 $font-family-base:           NanumSquare, !default;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
