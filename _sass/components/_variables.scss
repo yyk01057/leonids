@@ -29,7 +29,8 @@ $border-width:               .0625rem !default;
 $font-family-sans-serif:     "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $font-family-serif:          Georgia, "Times New Roman", Times, serif !default;
 $font-family-monospace:      "Roboto Mono", "Courier New", monospace !default;
-$font-family-base:           Jeju Hallasan !default;
+$font-family-jeju-hallasan:  "Jeju Halasan", !default;
+$font-family-base:           $font-family-jeju-hallasan, !default;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
 $font-size-root:             17px !default;
